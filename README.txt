@@ -1,3 +1,9 @@
+# Any Angle path planing
+
+This code is not mine, i just changed to make it compilable on windows, and be possible to generate a a static library for implementation in other projects.
+Original sources can be found in http://idm-lab.org/project-o.html and https://www.movingai.com/benchmarks/grids.html
+
+
 This code was developed by Tansel Uras (turas@usc.edu) at USC.
 The code is hosted at 'http://idm-lab.org/anyangle'.
 If you use this code in your research, please  cite our SoCS paper:
