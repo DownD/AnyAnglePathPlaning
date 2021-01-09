@@ -244,17 +244,17 @@
     <Text Include="src\LICENSE.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\ANYA.h" />
-    <ClInclude Include="src\ANYAIndexTable.h" />
-    <ClInclude Include="src\AnyAngleAlgorithm.h" />
     <ClInclude Include="src\AnyAngleDefinitions.h" />
     <ClInclude Include="src\AnyAngleStatistics.h" />
-    <ClInclude Include="src\BlockAStar.h" />
-    <ClInclude Include="src\FieldAStar.h" />
+    <ClInclude Include="src\include\ANYA.h" />
+    <ClInclude Include="src\include\ANYAIndexTable.h" />
+    <ClInclude Include="src\include\AnyAngleAlgorithm.h" />
+    <ClInclude Include="src\include\BlockAStar.h" />
+    <ClInclude Include="src\include\FieldAStar.h" />
+    <ClInclude Include="src\include\SubgoalAA.h" />
+    <ClInclude Include="src\include\SubgoalAADefinitions.h" />
+    <ClInclude Include="src\include\ThetaStar.h" />
     <ClInclude Include="src\ScenarioLoader.h" />
-    <ClInclude Include="src\SubgoalAA.h" />
-    <ClInclude Include="src\SubgoalAADefinitions.h" />
-    <ClInclude Include="src\ThetaStar.h" />
     <ClInclude Include="src\Timer.h" />
   </ItemGroup>
   <ItemGroup>

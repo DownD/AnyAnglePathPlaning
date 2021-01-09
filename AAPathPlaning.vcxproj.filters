@@ -26,40 +26,40 @@
     <Text Include="src\LICENSE.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\AnyAngleAlgorithm.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="src\AnyAngleDefinitions.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="src\AnyAngleStatistics.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\BlockAStar.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="src\FieldAStar.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="src\ScenarioLoader.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="src\SubgoalAA.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="src\SubgoalAADefinitions.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="src\ThetaStar.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="src\Timer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\ANYA.h">
+    <ClInclude Include="src\include\SubgoalAA.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\ANYAIndexTable.h">
+    <ClInclude Include="src\include\SubgoalAADefinitions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\include\ThetaStar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\include\ANYA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\include\ANYAIndexTable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\include\AnyAngleAlgorithm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\include\BlockAStar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\include\FieldAStar.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
