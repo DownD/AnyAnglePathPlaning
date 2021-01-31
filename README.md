@@ -4,18 +4,17 @@ This code is not mine, i just changed to make it compilable on windows, and be p
 Original sources can be found in http://idm-lab.org/project-o.html and https://www.movingai.com/benchmarks/grids.html<br>
 
 
-<b>This code was developed by Tansel Uras (turas@usc.edu) at USC.
-The code is hosted at 'http://idm-lab.org/anyangle'.
-SoCS paper:
-
-T. Uras and S. Koenig,  2015. An Empirical Comparison of Any-Angle Path-Planning Algorithms. In: Proceedings of the 8th Annual Symposium on Combinatorial Search. Code available at: http://idm-lab.org/anyangle
+<b>This code was developed by Tansel Uras (turas@usc.edu) at USC.<br>
+The code is hosted at 'http://idm-lab.org/anyangle'.<br>
+SoCS paper:<br>
+T. Uras and S. Koenig,  2015. An Empirical Comparison of Any-Angle Path-Planning Algorithms. In: Proceedings of the 8th Annual Symposium on Combinatorial Search. Code available at: http://idm-lab.org/anyangle<br>
 </b>
 
 
 For the benchmarks, visit: 'http://www.movingai.com/benchmarks/'. This package contains sample .map and .map.scen files.
 
 ## Compilation:
-Using the command 'make all', will generate 13 executables, (A*-Euc, A*-Oct, Theta*, Lazy Theta*, Field A*, Block A*, ANYA and six variants of Subgoal Graphs) and run them on the map 'arena2', with its associated scenario file (you can modify the makefile to prevent this, or change the map).
+Using the command 'make all', will generate 13 executables, (A*-Euc, A*-Oct, Theta*, Lazy Theta*, Field A*, Block A*, ANYA and six variants of Subgoal Graphs) and run them on the map 'arena2', with its associated scenario file (you can modify the makefile to prevent this, or change the map).<br>
 Using windows, just compile using Visual Studio 2019.
 
 ## Running:
